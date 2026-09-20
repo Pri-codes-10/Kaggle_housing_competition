@@ -38,6 +38,11 @@ The solution uses a 5-fold cross-validation strategy combined with a weighted bl
 ## 📦 Prerequisites & Dependencies
 
 To run this pipeline, ensure you have the following Python libraries installed:
+```bash
+pip install numpy pandas scikit-learn xgboost lightgbm scipy
+
+```bash
+pip install numpy pandas scikit-learn xgboost lightgbm scipy
 
 
 # Kaggle House Prices Competition Solution
